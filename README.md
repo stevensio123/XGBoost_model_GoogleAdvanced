@@ -1,6 +1,6 @@
 ## XGBoost model building lab
 
-In this lab from the Google Advanced Data Analytics course, I will construct my own XGBoost classification model. I will be presented with a business scenario and a dataset to use as I build on the skills and techniques I learned in the Decision Tree and Random Forest lessons. I will practice training, tuning, and evaluation an XGBoost model and compare its performance to previous models' to decide which model is best.
+In this lab from the Google Advanced Data Analytics course, I will construct my own XGBoost classification model. This activity is a continuation of the airlines project in which I built decision tree and random forest models. Using the same data, but this time I will train, tune, and evaluate an XGBoost model. I will then compare the performance of all three models and decide which model is best. Finally, the feature importances of my model will identify the features that most contribute to customer satisfaction.
 
 ## Data Dictionary
 
